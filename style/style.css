@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#header{
+display: flex;
+justify-content: space-between;
+/* border: 1px solid black; */
+align-items: center;
+padding: 20 80px;
+color:black;
+background: #e3e6f3;
+box-shadow:0 5px 25px rgba(0, 0, 0, 0.1);
+}
+ul{
+    display: flex;
+    list-style: none;
+}
